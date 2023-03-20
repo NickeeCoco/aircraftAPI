@@ -1,0 +1,12 @@
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\obj\Debug\net7.0\AircraftDomain.csproj.AssemblyReference.cache
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\obj\Debug\net7.0\AircraftDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\obj\Debug\net7.0\AircraftDomain.AssemblyInfoInputs.cache
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\obj\Debug\net7.0\AircraftDomain.AssemblyInfo.cs
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\obj\Debug\net7.0\AircraftDomain.csproj.CoreCompileInputs.cache
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\bin\Debug\net7.0\AircraftDomain.deps.json
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\bin\Debug\net7.0\AircraftDomain.dll
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\bin\Debug\net7.0\AircraftDomain.pdb
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\obj\Debug\net7.0\AircraftDomain.dll
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\obj\Debug\net7.0\refint\AircraftDomain.dll
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\obj\Debug\net7.0\AircraftDomain.pdb
+C:\Users\MorganeBentzinger\source\repos\AircraftAPI\AircraftDomain\obj\Debug\net7.0\ref\AircraftDomain.dll
